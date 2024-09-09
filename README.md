@@ -3,10 +3,13 @@
 
 Welcome to the Bank Analytics Repository, a comprehensive collection of analytics work focused on bank data related to loans and customer segmentation. This repository is divided into four phases, each focusing on different aspects of data analytics and visualization. The four phases include:
 
-1.Excel Work on Data and Dashboard Creation
-2.SQL KPI Extraction
-3.Power BI Dashboard Development
-4.Tableau Dashboard Creation
+1.Excel Work on Data and Dashboard Creation.
+
+2.SQL KPI Extraction.
+
+3.Power BI Dashboard Development.
+
+4.Tableau Dashboard Creation.
 
 
 1. Excel Work on Data and Dashboard Creation
