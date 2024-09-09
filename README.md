@@ -1,4 +1,6 @@
 **Bank Analytics Repository**
+
+
 Welcome to the Bank Analytics Repository, a comprehensive collection of analytics work focused on bank data related to loans and customer segmentation. This repository is divided into four phases, each focusing on different aspects of data analytics and visualization. The four phases include:
 
 1.Excel Work on Data and Dashboard Creation
