@@ -1,5 +1,8 @@
 **Bank Analytics Repository**
 
+**NOTE** : [I AM UNABLE TO UPLOAD MY POWER BI WORK DUE TO SIZE LIMITATION . IF YOU WANT TO WORK ON THAT , CONNECT WITH ME THROUGH MAILS OR THIS FORM GIVEN BELOW]
+(https://docs.google.com/forms/d/e/1FAIpQLSflFFWQs6-EI7lbQYcpEfSvYZmxHxH0qnzfNnji7GogZ_jxlQ/viewform)
+
 
 Welcome to the Bank Analytics Repository, a comprehensive collection of analytics work focused on bank data related to loans and customer segmentation. This repository is divided into four phases, each focusing on different aspects of data analytics and visualization. The four phases include:
 
